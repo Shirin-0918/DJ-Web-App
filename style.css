@@ -1,0 +1,27 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color: darkblue;
+}
+body{
+    font-family: 'Permanent Marker', cursive;
+    background-size: cover;
+}
+.speedDiv{
+    float: left;
+}
+.speedDiscImg, .volumeDiscImg{
+    width:200px;
+    border-radius: 100px;
+}
+#speed, #volume{
+    font-size:20px;
+    margin: 15px;
+}
+.volumeDiv{
+    float: right;
+}
