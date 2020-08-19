@@ -25,3 +25,11 @@ body{
 .volumeDiv{
     float: right;
 }
+.playBtn{
+    font-size: 25px;
+    width: 130px;
+}
+canvas{
+    border: 5px ridge whitesmoke;
+    border-radius: 20px;
+}
